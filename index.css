@@ -1,1 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#main{
 
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 40px;
+   
+}
+img{
+    width: 150px;
+    margin: 5px;
+    
+    
+    
+}
+button{
+    background-color: rgb(19, 170, 145);
+    border-radius: 2px;
+    width: 40px;
+    box-sizing: border-box;
+    height: 30px;
+    margin: 30px;
+    display: flex;
+
+}
